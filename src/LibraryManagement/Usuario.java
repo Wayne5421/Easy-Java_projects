@@ -42,7 +42,7 @@ public class Usuario {
             livrosEmprestados.remove(livro);
         }
         else {
-            System.out.println("O livro ja está com esse usuário");
+            System.out.println("O livro não está com esse usuário");
 
         }
 
